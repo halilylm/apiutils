@@ -1,4 +1,4 @@
-module apiutils
+module github.com/halilylm/apiutils
 
 go 1.19
 

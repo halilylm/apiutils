@@ -1,7 +1,7 @@
 package errors_test
 
 import (
-	"apiutils/http/errors"
+	"github.com/halilylm/apiutils/http/errors"
 	"github.com/stretchr/testify/assert"
 	"net/http"
 	"testing"
